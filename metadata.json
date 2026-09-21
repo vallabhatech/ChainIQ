@@ -1,0 +1,6 @@
+{
+  "name": "ResiliGraph",
+  "description": "AI Crisis Navigator for Supply Chains - interactive crisis navigation, impact blast radius, time machine simulation, recovery options, and SAP Joule approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
